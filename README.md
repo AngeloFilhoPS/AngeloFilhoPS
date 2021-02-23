@@ -2,7 +2,7 @@
 I started with ReactJS, React Native and Node development since the begin of 2020.
 
 ### Experiences:
--Inter in <a href="http://www.defesacivil.am.gov.br/">Defesa Civil do Amazonas</a> <br>
+-Intern in <a href="http://www.defesacivil.am.gov.br/">Defesa Civil do Amazonas</a> <br>
 -BackEnd Java in <a href="https://www.zup.com.br/">Zup</a>
 <!--
 **AngeloFilhoPS/AngeloFilhoPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
