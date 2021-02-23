@@ -1,6 +1,5 @@
 ### Hi there, I'm Angelo 👋
 I started with ReactJS, React Native and Node development since the begin of 2020.
-###Contacts:
 
 ### Experiences:
 -Inter in <a href="http://www.defesacivil.am.gov.br/">Defesa Civil do Amazonas</a> <br>
