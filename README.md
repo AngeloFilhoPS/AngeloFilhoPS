@@ -2,7 +2,7 @@
 I started with ReactJS, React Native and Node development since the begin of 2020.<br>
 Started my studies in SpringBoot in 2021<br>
 I love code, solve problems and help people. Therefore, make money
-### Contatacts:
+### Contacts:
 - <a href="https://www.linkedin.com/in/angelo-marcio-a60b9016a/">Linkedin</a> <br>
 - <a href="https://www.youtube.com/channel/UCbv6lKfrvoHKOqDEv8pgCOw">Programador Sem Rumo</a>(Youtube Channel)
 - <a href="https://www.instagram.com/angelo.marcio_dev/">Instagram</a>
